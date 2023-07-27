@@ -1,0 +1,24 @@
+
+h1{
+    color: white;
+}
+table {
+  counter-increment: row-num;
+    color:azure;
+    border-collapse: collapse;
+    margin-left: auto; 
+    margin-right: auto;
+    width: 90%;
+  }
+  th {  
+
+    padding: 12px;
+    text-align: centre;
+    border: 2px solid rgb(59, 58, 58);
+  }
+  td {
+    text-align:center  ;
+    padding: 12px;
+    border: 2px solid rgb(59, 58, 58);
+  }
+

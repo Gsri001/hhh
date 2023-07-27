@@ -1,0 +1,8 @@
+
+.params-form input[type="text"] {
+  width: 99%;
+  background-color: rgb(25, 24, 24);
+  color: white; 
+  border: 1px solid  rgb(25, 24, 24);
+}
+

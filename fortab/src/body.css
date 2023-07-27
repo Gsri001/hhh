@@ -1,0 +1,21 @@
+.cont {
+  display: none;
+}
+input[type="radio"] {
+  appearance: none;
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  border: 2px solid #585555;
+  cursor: pointer;
+  margin-right: 8px; 
+  background-color: rgb(90, 82, 82);
+}
+input[type="radio"]:checked {
+  background-color: red;
+  border: 3px solid rgb(83, 80, 80); 
+}
+.tab-label{color: white;}
+.radio-select-container label {
+  margin-right: 10px;
+}
